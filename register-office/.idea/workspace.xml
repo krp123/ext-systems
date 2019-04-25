@@ -37,8 +37,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1011" />
-    <option name="y" value="396" />
+    <option name="x" value="465" />
+    <option name="y" value="94" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -62,6 +62,10 @@
         </subPane>
       </pane>
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
